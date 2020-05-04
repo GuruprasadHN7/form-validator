@@ -1,2 +1,2 @@
 # form-validator
-A quick form validation using Javascript 
+A quick form validation using HTML, CSS, Javascript 
